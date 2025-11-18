@@ -1,33 +1,4 @@
-Strata by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
-
-A simple, minimalist template that actually began life as an unused redesign of my
-personal site. Includes a (configurable) parallax background effect, Poptrox-powered
-lightbox gallery, a bunch of pre-styled elements, and Sass sources for the Sass-inclined.
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = Not included)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Welcome to the Historical Sword Society
+The Historical Sword Society is dedicated to the research, preservation, and practice of European sword traditions. Our mission is to bring history to life through disciplined study, hands-on training, and responsible scholarship. We explore the evolution of rapiers, sabers, and military swords—from battlefield to dueling ground—while promoting safe, structured practice rooted in historical sources.
+Founded by enthusiasts, researchers, and martial artists, our society blends academic inquiry with practical skill development. We study original treatises, analyze antique blades, and test historical fencing methods to understand how these weapons were truly used. Our work also includes metallurgy research, museum collaboration, and community education through seminars, demonstrations, and guided training.
+Whether you are a collector, a HEMA practitioner, a historian, or simply curious about the art of the sword, the Historical Sword Society offers a place to learn, train, and connect. Together we preserve the legacy of European swordsmanship—one technique, one artifact, and one story at a time.
