@@ -3219,3 +3219,8 @@ input, select, textarea {
 			}
 
 	}
+/* HSS Header Logo Size */
+.image.avatar img {
+    width: 180px;
+    height: auto;
+}
