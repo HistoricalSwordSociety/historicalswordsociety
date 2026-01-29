@@ -3229,8 +3229,9 @@ input, select, textarea {
     display: inline-block;
     margin: 0 auto;
 }
-/* --- HSS overrides (keep at end) --- */
-body.interior #header .logo img {
-    width: 240px !important;
-    height: auto !important;
+/* === HSS Header Logo — FINAL OVERRIDE === */
+#header .image.avatar img {
+  width: 240px !important;
+  height: auto !important;
+  max-width: none !important;
 }
