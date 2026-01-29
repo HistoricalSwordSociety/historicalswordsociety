@@ -3220,9 +3220,10 @@ input, select, textarea {
 
 	}
 /* HSS Header Logo Size */
-.image.avatar img {
-    width: 240px;
-    height: auto;
+#header .logo img {
+    max-height: 90px;
+    width: auto;
+}
 }
 /* Center the logo in the left header column */
 #header .inner {
