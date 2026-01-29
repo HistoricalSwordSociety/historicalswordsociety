@@ -3219,15 +3219,18 @@ input, select, textarea {
 			}
 
 	}
-/* Center the logo in the left header column */
-#header .logo {
-  display: block;
-  text-align: center;
+/* === HSS Header Logo Positioning === */
+#header {
+  align-items: flex-start;
+}
+
+#header .image.avatar {
+  margin-left: 0;
 }
 
 .image.avatar {
     display: inline-block;
-    margin: 0 auto;
+    margin: 0;
 }
 /* === HSS Header Logo — FINAL OVERRIDE === */
 #header .image.avatar img {
