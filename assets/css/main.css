@@ -3221,11 +3221,7 @@ input, select, textarea {
 	}
 /* === HSS Header Logo Positioning === */
 #header {
-  align-items: flex-start;
-}
-
-#header .image.avatar {
-  margin-left: 0;
+  align-items: center;
 }
 
 .image.avatar {
