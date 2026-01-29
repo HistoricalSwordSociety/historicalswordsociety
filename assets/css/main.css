@@ -3219,20 +3219,18 @@ input, select, textarea {
 			}
 
 	}
-/* HSS Header Logo — interior pages only (matches last week) */
-body.interior #header .image.avatar img {
-    width: 240px;
-    height: auto;
-}
-
-}
-}
 /* Center the logo in the left header column */
-#header .inner {
-    text-align: center;
+#header .logo {
+  display: block;
+  text-align: center;
 }
 
 .image.avatar {
     display: inline-block;
     margin: 0 auto;
+}
+/* --- HSS overrides (keep at end) --- */
+body.interior #header .logo img {
+    width: 240px !important;
+    height: auto !important;
 }
