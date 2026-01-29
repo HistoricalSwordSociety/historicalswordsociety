@@ -3221,8 +3221,33 @@ input, select, textarea {
 	}
 /* === HSS Header Logo Positioning === */
 #header {
+    display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between; /* keep 2-column layout */
+}
+/* Force true 2-column split and center logo within left column */
+#header .image.avatar {
+    flex: 0 0 50%;
+    max-width: 50%;
+    text-align: center;
+    margin: 0;
+}
+
+#header .content {
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+@media screen and (max-width: 980px) {
+    #header {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    #header .image.avatar,
+    #header .content {
+        flex: 0 0 100%;
+        max-width: 100%;
+        text-align: center;
+    }
 }
 
 .image.avatar {
