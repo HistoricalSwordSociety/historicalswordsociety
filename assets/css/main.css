@@ -3219,14 +3219,10 @@ input, select, textarea {
 			}
 
 	}
-/* HSS Header Logo (match site intro style) */
-#header .logo img {
-    width: 120px;
-    height: auto;
-    border-radius: 50%;
-    display: block;
-    margin: 0 auto;
-}
+/* HSS Header Logo — interior pages only */
+body.interior #header .logo img {
+    max-height: 90px;
+    width: auto;
 }
 }
 /* Center the logo in the left header column */
