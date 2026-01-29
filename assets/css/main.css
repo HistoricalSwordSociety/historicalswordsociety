@@ -3221,8 +3221,10 @@ input, select, textarea {
 	}
 /* HSS Header Logo — interior pages only */
 body.interior #header .logo img {
-    max-height: 90px;
-    width: auto;
+    width: 240px;
+    height: auto;
+}
+
 }
 }
 /* Center the logo in the left header column */
